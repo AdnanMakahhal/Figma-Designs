@@ -6,7 +6,7 @@ A collection of my UI/UX projects created in Figma, showing my design journey fr
 
 | Project | Figma Design |
 |---|---|
-| **Adnan Cinema Booking** | [View Figma](PUT_FIGMA_LINK_HERE) |
+| **Adnan Cinema Booking** | [View Figma](https://www.figma.com/design/hiUXEoGjHrAjiq44aKmrLO/cinema-movie-booking?node-id=0-1&t=b69J2LDAdOmEerZs-1) |
 | **DARVIA Shop** | [View Figma](PUT_FIGMA_LINK_HERE) |
 | **MEU Mobile UI** | [View Figma](PUT_FIGMA_LINK_HERE) |
 | **Room Booking** | [View Figma](PUT_FIGMA_LINK_HERE) |
