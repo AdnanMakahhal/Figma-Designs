@@ -2,7 +2,7 @@
 
 A collection of my UI/UX projects created in Figma, showing my design journey from early projects to more complete and polished work.
 
-## 🖌️ Projects
+## Projects Links
 
 | Project | Figma Design |
 |---|---|
@@ -14,7 +14,3 @@ A collection of my UI/UX projects created in Figma, showing my design journey fr
 | **Software Consultancy** | [View Figma](PUT_FIGMA_LINK_HERE) |
 | **StaySmart** | [View Figma](PUT_FIGMA_LINK_HERE) |
 | **Fleet Management Platform** | [View Figma](https://www.figma.com/design/KTfAxuY5bCW8AmbksHhX3b/) |
-
-## About
-
-This repository shows my progress in UI/UX design and the projects I have worked on while learning and improving my skills in Figma.
